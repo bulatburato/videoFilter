@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.34408.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "video", "video\video.pyproj", "{E3F4C78E-02ED-469C-A924-AAEB4D4DE1EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F4C78E-02ED-469C-A924-AAEB4D4DE1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F4C78E-02ED-469C-A924-AAEB4D4DE1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFCE6CFE-6BE1-40B9-B812-80A91E9650D5}
+	EndGlobalSection
+EndGlobal
